@@ -1,1 +1,0 @@
-# Bootstrap-Icons-by-Zamudio
